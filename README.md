@@ -4,6 +4,15 @@
 
 <br>
 
+## Frameworks
+* Bootstrap v4.2.1 - https://getbootstrap.com/
+* Font Awesome v5.5.0 - https://fontawesome.com
+* Animate.css v3.7.0 - https://daneden.me/animate
+* Particles.js v2.0.0 - https://vincentgarreau.com
+* FancyBox v3.5.7 - https://fancyapps.com/fancybox/
+
+<br>
+
 ## Contenido
 El soft incluye las siguientes funciones:
 * Agregar o eliminar usuarios.
