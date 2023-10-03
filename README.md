@@ -4,7 +4,7 @@
 
 <br>
 
-## Frameworks
+## Librerias
 * Bootstrap v4.2.1 - https://getbootstrap.com/
 * Font Awesome v5.5.0 - https://fontawesome.com
 * Animate.css v3.7.0 - https://daneden.me/animate
